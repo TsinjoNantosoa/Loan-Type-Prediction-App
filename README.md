@@ -14,8 +14,8 @@ Ce projet est une application web pour prédire les types de prêts en fonction 
 1. **Cloner le dépôt :**
 
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/TsinjoNantosoa/Loan-Type-Prediction-App
+   cd Loan-Type-Prediction-App
    ```
 
 2. **Créer un environnement virtuel et l'activer :**
@@ -56,7 +56,3 @@ Le modèle utilisé dans cette application est un modèle d'apprentissage automa
 ## Contribution
 
 N'hésitez pas à forker ce dépôt et à soumettre des pull requests. Pour des changements majeurs, veuillez d'abord ouvrir une issue pour discuter de ce que vous souhaitez changer.
-
-## Licence
-
-Ce projet est sous licence MIT.# Loan-Type-Prediction-App
